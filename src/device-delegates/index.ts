@@ -11,3 +11,6 @@ export * from './shelly-pro-2';
 export * from './shelly-pro-3';
 export * from './shelly-pro-2-pm';
 export * from './shelly-pro-4-pm';
+
+// to support shelly-plus-uni
+export * from './shelly-plus-uni';
